@@ -14,3 +14,5 @@ javaをやります
 
 拡張子が```java```となっているものを提出してください
 
+## [フォローページ](https://github.com/shouhei/BasicsOfProgramming/wiki)
+
